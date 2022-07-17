@@ -1,6 +1,6 @@
 {
-    "version": "1.8.6",
-    "versionCode": 186,
-    "zipUrl": "https://github.com/gloeyisk/universal-gms-doze/releases/download/v1.8.6/gms_v1.8.6.zip",
-    "changelog": "https://raw.githubusercontent.com/gloeyisk/universal-gms-doze/master/changelog.md"
+    "version": "1.2A",
+    "versionCode": 120,
+    "zipUrl": "https://github.com/CrazyBytesVE/GMS-Doze/releases/download/GMS_Doze/GMS.Doze.V1.2A.zip",
+    "changelog": "https://github.com/CrazyBytesVE/GMS-Doze/blob/GMS-Doze/changelog.md"
 }
