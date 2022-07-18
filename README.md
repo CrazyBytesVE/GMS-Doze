@@ -1,4 +1,4 @@
-# GMS Doze (Léeme por Crazybytes, traducción al español de @Gloeyisk)
+# GMS Doze (Optimizado y mejorado, basado en GMS Universal Doze 1.8.6)
 
 ---
 ## Vista rápida
