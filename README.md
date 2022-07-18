@@ -5,6 +5,7 @@
 - Parchea la aplicación de servicios de Google Play y sus procesos en segundo plano para poder utilizar la optimización de la batería
 - Soporte API 23 o posterior
 - Admite instalaciones de Magisk Live o Custom Recovery
+
 ---
 ## Solución de problemas
 - Línea de comandos para verificar la optimización (con el complemento instalado):
@@ -18,6 +19,11 @@ Hay una línea escrita `Whitelist (except idle) system apps:` y si la línea `co
 > su
 > dumpsys deviceidle
 ```
+
+---
+# Descarga
+- https://github.com/CrazyBytesVE/GMS-Doze/edit/GMS-Doze/releases
+
 ---
 ## Créditos
 - [@topjohnwu](https://github.com/topjohnwu) / Magisk - Magisk Module Template
