@@ -22,7 +22,7 @@ Hay una línea escrita `Whitelist (except idle) system apps:` y si la línea `co
 
 ---
 # Descarga
-- https://github.com/CrazyBytesVE/GMS-Doze/edit/GMS-Doze/releases
+- https://github.com/CrazyBytesVE/GMS-Doze/releases
 
 ---
 ## Créditos
