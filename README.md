@@ -1,9 +1,7 @@
-# GMS Doze (Optimizado y mejorado, basado en GMS Universal Doze 1.8.6) - Bloquea Find My Device
-
+# GMS Doze (Optimizado y mejorado, basado en GMS Universal Doze 1.8.6/1.8.5)
 ---
 ## Vista rápida
 - Parchea la aplicación de servicios de Google Play y sus procesos en segundo plano para poder utilizar la optimización de la batería
-- Bloquea Find My Device, permite mayor ahorro de energía.
 - Soporte API 23 o posterior
 - Admite instalaciones de Magisk Live o Custom Recovery
 ---
@@ -21,8 +19,9 @@ Hay una línea escrita `Whitelist (except idle) system apps:` y si la línea `co
 ```
 
 ---
-#Descarga
-- https://github.com/CrazyBytesVE/GMS-Doze-BlockFindMyDevice/releases
+## Descarga
+- https://github.com/CrazyBytesVE/GMS-Doze/releases
+- https://github.com/Magisk-Modules-Alt-Repo/GMSDoze/releases
 
 ---
 ## Créditos
@@ -31,16 +30,18 @@ Hay una línea escrita `Whitelist (except idle) system apps:` y si la línea `co
 - [@Gloeyisk] (https://github.com/gloeyisk/universal-gms-doze) / (GMS Universal Doze).
 - CypherCloud (Por facilitar opciones avanzadas)
 
-***ENGLISH README***
+---
+*ENGLISH VERSION*
+---
 
-# GMS Doze (Optimized and improved, based on GMS Universal Doze 1.8.6) - Lock Find My Device
+# GMS Doze (Optimized and improved, based on GMS Universal Doze 1.8.6/1.8.5)
 
 ---
 ## Quick View
-- Patch Google Play services app and its background processes in order to use battery optimization.
-- Locks Find My Device, allows more power saving.
+- Patches Google Play services app and its background processes in order to use battery optimization.
 - Support API 23 or later
 - Supports Magisk Live or Custom Recovery installations
+
 ---
 ## Troubleshooting
 - Command line to verify optimization (with plugin installed):
@@ -56,8 +57,9 @@ There is a line written `Whitelist (except idle) system apps:` and if the line `
 ```
 
 ---
-#Download
-- https://github.com/CrazyBytesVE/GMS-Doze-BlockFindMyDevice/releases
+## Download
+- https://github.com/CrazyBytesVE/GMS-Doze/releases
+- https://github.com/Magisk-Modules-Alt-Repo/GMSDoze/releases
 
 ---
 ## Credits
